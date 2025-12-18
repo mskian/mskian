@@ -1,6 +1,6 @@
 ### Hi 👋
 
-This is Santhosh Veer - Blogger - FOSS - Web apps - Tamil Kavithai.
+This is Santhosh Veer - Blogger - FOSS - Web apps - Tamil Kavithai - Cycling & Running.
 
 Check out My Web apps, API, Scripts, Widgets, and Modules - <https://github.com/sanwebinfo>
 
